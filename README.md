@@ -4,7 +4,7 @@
 📄 **[View My CV](./VUKO_MNGOMEZULU_CV.docx)**
 
 ## Featured Projects
-### Azure AI Document Intelligence Assistant
+### AI Document Intelligence Assistant
 
 **Python | FastAPI | Azure AI | RAG**
 
