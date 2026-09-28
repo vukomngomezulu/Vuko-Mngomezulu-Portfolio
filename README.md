@@ -1,7 +1,7 @@
 # Vuko-Mngomezulu
 ### Computer Science & Mathematics | Data | AI | Cloud
 
-📄 **[View My CV](./VUKO_MNGOMEZULU_CV_.pdf)**
+📄 **[View My CV](VUKO_MNGOMEZULU_CV_.pdf)**
 
 ## Featured Projects
 ### AI Document Intelligence Assistant
